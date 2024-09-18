@@ -1,0 +1,5 @@
+pre-commit >= 2.17.0
+pydeps
+pylint
+build
+twine
